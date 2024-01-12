@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.param-editor__container {
+  margin: 20px 10px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.param-editor__label {
+  font-size: 22px;
+}
+
+.param-editor__input {
+  padding: 10px;
+  padding-left: 10px;
+  border: none;
+  border-radius: 10px;
+  min-width: 200px;
+  font-size: 20px;
+}
